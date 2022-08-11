@@ -1,0 +1,8 @@
+com\mycompany\appwebcrud\resources\JakartaEE8Resource.class
+project\view\controller\CreateUser.class
+project\view\model\User.class
+com\mycompany\appwebcrud\JakartaRestConfiguration.class
+project\view\controller\SelectUser.class
+project\view\service\ApiUser.class
+project\view\controller\UpdateUser.class
+project\view\controller\DeleteUser.class
